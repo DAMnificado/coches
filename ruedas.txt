@@ -1,2 +1,3 @@
 Mercedes:200$
 Aston Martin:300$
+BMW:220$
